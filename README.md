@@ -7,7 +7,7 @@
 This is a tip
 :::
 
-[Drag Racing](https://github.com/chornthorn/welcome_authentication_flutter_ui/blob/master/demo_screenshot/welcome.png)
+![Drag Welcome](https://github.com/chornthorn/welcome_authentication_flutter_ui/blob/master/demo_screenshot/welcome.png)
 
 If you want to embed images, this is how you do it:
 
