@@ -8,6 +8,7 @@ This is a tip
 :::
 
 ![Drag Welcome](https://github.com/chornthorn/welcome_authentication_flutter_ui/blob/master/demo_screenshot/welcome.png)
+![Drag Welcome](<img src="https://github.com/favicon.ico" width="48">)
 
 If you want to embed images, this is how you do it:
 
